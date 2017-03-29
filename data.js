@@ -361,16 +361,6 @@ module.exports = [
         'bomber, 11, 0',
         'zap, 11, 0',
     ]],
-    [31, 3, 0, 4006, 4022, [
-        'miner, 3, 3',
-        'icewizard, 2, 3',
-        'minions, 11, 0',
-        'royalgiant, 12, 0',
-        'log, 1, 3',
-        'knight, 12, 0',
-        'icespirit, 10, 0',
-        'zap, 13, 0',
-    ]],
     [-29, 1, 2, 4006, 4007, [
         'lavahoud, 2, 3',
         'tombstone, 8, 1',
