@@ -1,0 +1,38 @@
+Analysis :
+
+    Card frequency:
+        sample mean: 5.71429
+        sample median: 4
+        sample variance: 33.43265
+        sample standard deviation: 5.78210
+
+        https://i.gyazo.com/a285f7a5314229ffc0092f1215772770.png
+
+===================================================
+
+    Card level for rarity common:
+        sample mean: 10.97826
+        sample median: 11
+        sample variance: 0.52851
+        sample standard deviation: 0.72699
+
+
+    Card level for rarity rare:
+        sample mean: 8.11475
+        sample median: 8
+        sample variance: 0.33109
+        sample standard deviation: 0.57541
+
+
+    Card level for rarity epic:
+        sample mean: 4.95714
+        sample median: 5
+        sample variance: 1.24102
+        sample standard deviation: 1.11401
+
+
+    Card level for rarity legendary:
+        sample mean: 1.7
+        sample median: 2
+        sample variance: 0.21
+        sample standard deviation: 0.45826

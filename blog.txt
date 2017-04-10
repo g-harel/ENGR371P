@@ -1,0 +1,39 @@
+03/24
+
+    Members: Gabriel
+    Work Done: Collected data from games (screenshot)
+
+03/25
+
+    Members: Gabriel
+    Work Done: Collected data from games (screenshot).
+
+03/26
+
+    Members: Gabriel
+    Work Done: Collected data from games (screenshot).
+
+03/27
+
+    Members: Gabriel
+    Work Done: Collected data from games (screenshot).
+
+03/28
+
+    Members: Gabriel
+    Work Done: Collected data from games (screenshot).
+
+03/29
+
+    Members: Gabriel
+    Work Done: Data entry for all the recorded games (data.js file).
+
+04/07
+
+    Members: Gabriel
+    Work Done: Added code to compute sample mean, sample median, sample variance and standard deviation.
+
+04/10
+
+    Members: Gabriel
+    Work Done: Added code to generate graph of data for card frequency.
