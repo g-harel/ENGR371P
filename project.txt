@@ -36,3 +36,11 @@ Analysis :
         sample median: 2
         sample variance: 0.21
         sample standard deviation: 0.45826
+
+
+Comments
+
+    There is nothing in the data that would strongly suggest that the sampling was not acceptably random. However, looking back on my methodology, one approach that could have given me more slightly more realistic sample would have been to spread out the games over a larger number of days. Playing patterns and decks most likely vary according to the types of player. For example, during the daytime, the age of players might be lower since the adults are at work. However, it is impossible to analyze the results to such an extent without a much larger sample size and a more rigorous logging of play times.
+    My hypothesis about card frequency ended up being somewhat accurate. The data shows clearly that there is a very strong preference towards the top percentage of cards, but this bias is much more pronounced than I had anticipated. I believe it would therefore be better to revise this part of the hypothesis to say that: "There is a core of 20-30% of cards that are played very often, and the rest of are played in much lower amounts, but not in an even distribution."
+    Regarding the card level according to rarity part of the hypothesis, the results were generally close to my predicted outcomes, but most averages were actually lower than my perceived estimates. I also want to highlight that the variance for most of these card rarities are quite small. This could possibly indicate that card level is a strong indicator of a player's trophy rating since all players were within ~100 trophies from each other.
+    I believe these results could be extrapolated to a certain extent. Increasing the number of samples to widen the population should not affect the results in any significant way. However, this would only be true if the sampling technique (especially the part about the trophy range) is the same. In this game, cards are unlocked progressively through higher trophy ratings, and different cards have different peaks of performance at different levels. These are two factors that influence deck composition very much and would absolutely change the results in a significant way.

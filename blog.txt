@@ -37,3 +37,8 @@
 
     Members: Gabriel
     Work Done: Added code to generate graph of data for card frequency.
+
+04/13
+
+    Members: Gabriel
+    Work Done: Wrote analysis and comments
